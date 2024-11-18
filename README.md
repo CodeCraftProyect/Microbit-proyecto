@@ -27,7 +27,7 @@ Este proyecto ha sido creado por **siete jóvenes** apasionados por la tecnolog�
 4. Todo el sistema funciona con energía solar, almacenada en una batería recargable para uso continuo.  
 
 ## Instalación y Configuración  
-1. Ensambla los componentes según el esquema de conexiones (ver en la carpeta `/docs/esquema.png`).  
+1. Ensambla los componentes según el esquema de conexiones .
 2. Sube el código a la Micro:bit usando el editor MakeCode.  
 3. Coloca el panel solar en una zona con buena exposición al sol.  
 4. Ajusta los niveles de humedad en el código según tus necesidades.  
