@@ -14,8 +14,11 @@ Este proyecto ha sido creado por **siete jóvenes** apasionados por la tecnolog�
 2. **Sensor de humedad**  
 3. **Bomba de agua y mangueras**  
 4. **Panel solar**  
-5. **Batería recargable**  
+5. **Batería de litio recargable**  
 6. **Cables y conectores**  
+7. **BMS Cargador de baterías de litio de 1 celda**  
+8. **Rele de 5v**  
+9. **Led Azul**
 
 ## Cómo Funciona  
 1. El sensor de humedad mide los niveles de agua en el suelo.  
